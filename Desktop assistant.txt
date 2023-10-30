@@ -1,0 +1,17 @@
+Objective:To make a software which assists the user in certains task making it a beeter experience.
+
+Features:
+1)Name calling to the software 
+2)Voice activated google seacrh 
+3)Basic file operations understand structure of the files through voice and create it.
+
+Software needed:
+1)python
+2)visual studio code (only if your a developer)
+3)mozilla firefox
+
+Languages:
+1)Python
+ 
+LIbraries of Python used:
+1)
